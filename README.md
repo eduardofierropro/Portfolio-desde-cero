@@ -12,7 +12,7 @@ Es un código programado en directo para entretenimiento.
 
 ## Vídeos relacionados en Youtube 🛠️
 
-* [Youtube] (https://youtu.be/XAwXz2w3vlg)
+* [Youtube](https://youtu.be/XAwXz2w3vlg)
 
 ## Desarrollado con 🛠️
 
@@ -20,11 +20,11 @@ Es un código programado en directo para entretenimiento.
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
-* [Github] (https://github.com/eduardofierropro)
-* [Youtube] (https://youtube.com/EduardoFierroPro)
-* [Twitch] (https://twitch.tv/eduardofierropro)
-* [Instagram] (https://instagram.com/eduardofierro.pro)
-* [Twitter] (https://twitter.com/edfierropro)
+* [Github](https://github.com/eduardofierropro)
+* [Youtube](https://youtube.com/EduardoFierroPro)
+* [Twitch](https://twitch.tv/eduardofierropro)
+* [Instagram](https://instagram.com/eduardofierro.pro)
+* [Twitter](https://twitter.com/edfierropro)
 
 ## Licencia 📄
 MIT Public License v3.0
