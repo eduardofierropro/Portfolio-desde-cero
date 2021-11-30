@@ -7,7 +7,7 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 Este ejemplo ha sido programado en X horas mientras charlábamos y comentábamos cosas en Twitch (https://www.twitch.tv/eduardofierropro)
 
 ## Uso 🚀
-¡Mira el código, modifícalo y disfruta!
+¡Mira el código, modifícalo y disfruta! [aquí](https://eduardofierropro.github.io/Portfolio-desde-cero/)
 Es un código programado en directo para entretenimiento.
 
 ## Vídeos relacionados en Youtube 🛠️
