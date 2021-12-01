@@ -9,8 +9,8 @@ Este ejemplo ha sido programado en 1 hora mientras charlábamos y comentábamos 
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
-## Verlo en directo
-
+## Verlo en directo en Github Pages
+* [https://eduardofierropro.github.io/Portfolio-desde-cero/](https://eduardofierropro.github.io/Portfolio-desde-cero/)
 
 ## Vídeos relacionados en Youtube 🛠️
 * [Youtube](https://youtu.be/XAwXz2w3vlg)
