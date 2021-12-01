@@ -15,10 +15,6 @@ Este ejemplo ha sido programado en 1 hora mientras charlábamos y comentábamos 
 ## Vídeos relacionados en Youtube 🛠️
 * [Youtube](https://youtu.be/XAwXz2w3vlg)
 
-## Desarrollado con 🛠️
-
-* Visual Studio Code
-
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
 * [Github](https://github.com/eduardofierropro)
@@ -26,6 +22,11 @@ Este ejemplo ha sido programado en 1 hora mientras charlábamos y comentábamos 
 * [Twitch](https://twitch.tv/eduardofierropro)
 * [Instagram](https://instagram.com/eduardofierro.pro)
 * [Twitter](https://twitter.com/edfierropro)
+
+## Master/Cursos donde sor profesor 📚
+Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
+
+👉[http://colaboracion.eduardofierro.pro/](http://colaboracion.eduardofierro.pro/)
 
 ## Licencia 📄
 MIT Public License v3.0
