@@ -1,5 +1,5 @@
 ## Descripción
-Imitación de la web de Instagram para Ordenador en un directo de Twitch (https://www.twitch.tv/eduardofierropro) para el vídeo en [Youtube](https://youtu.be/XAwXz2w3vlg)
+Imitación de la web de Instagram para Ordenador en un directo de [Twitch](https://www.twitch.tv/eduardofierropro) para el vídeo en [Youtube](https://youtu.be/XAwXz2w3vlg)
 No ha sido probado para tener soporte crossbrowsing.
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
