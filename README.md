@@ -14,7 +14,7 @@ Este es un ejemplo de Portfolio donde lo importante más que el código son los 
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
-![SUITCSS Methodology](https://img.shields.io/static/v1?label=&message=suitcss%20methodology&color=lightblue&logo=suit&logoColor=white&style=for-the-badge)
+![BEM Methodology](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
 
 > Aclaraciones:
 >
