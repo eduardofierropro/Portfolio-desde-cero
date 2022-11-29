@@ -62,4 +62,4 @@ Este es un ejemplo de Portfolio donde lo importante más que el código son los 
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
