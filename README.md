@@ -5,7 +5,6 @@
 Este es un ejemplo de Portfolio donde lo importante más que el código son los consejos que voy enseñando a medida que voy programando, de esta forma te recomeindo que te pongas el directo de fondo y programes tu propio portfolio.
 
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://madcoolfestival.es/)
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/Portfolio-desde-cero/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofierropro/Portfolio-desde-cero)
 [![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)
 
